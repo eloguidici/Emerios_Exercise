@@ -7,9 +7,6 @@
 * Requirements
 * User Story
 * Installation
-* Manual Testing of the Application: Step-by-Step Guide
-* Extras
-
 
 ## INTRODUCTION
 
@@ -43,10 +40,9 @@ Navigate to the folder where your C# project is located using the "cd" command f
 
 Run the following command to compile your project and generate the executable file:
 ```bash
-csc Program.cs
+csc /out:AppMatrix.exe Program.cs
 ```
-
-## Manual Testing of the Application: Step-by-Step Guide
+This will generate an executable file in the same folder. (AppMatrix.exe)
 
 ## EXTRAS
 
