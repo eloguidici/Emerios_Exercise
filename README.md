@@ -44,10 +44,7 @@ csc /out:AppMatrix.exe Program.cs
 ```
 This will generate an executable file in the same folder. (AppMatrix.exe)
 
-```bash
-There is an executable file in the root of the project.
-```
+**There is an executable file in the root of the project.**
 
 ## EXTRAS
-- 
 - Author - [Emiliano Loguidici](https://www.linkedin.com/in/emilianologuidici/)
