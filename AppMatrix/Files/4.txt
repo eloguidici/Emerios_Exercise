@@ -1,0 +1,7 @@
+B, T, D, A, D, E, J
+V, X, B, D, E, J, J
+B, Y, X, E, J, D, H
+C, 7, E, J, B, D, G
+B, E, J, P, X, B, 3
+B, J, C, D, D, X, Y
+R, T, D, U, D, J, 9
