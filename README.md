@@ -35,7 +35,7 @@ It should return the string D, D, D, D, D, because there is a slash of D of leng
 
 ## INSTALLATION
 
-Open the Windows command prompt (cmd.exe).
+Open the Terminal un Visual Studio (cmd.exe).
 Navigate to the folder where your C# project is located using the "cd" command followed by the folder path.
 
 Run the following command to compile your project and generate the executable file:
@@ -44,6 +44,7 @@ csc /out:AppMatrix.exe Program.cs
 ```
 This will generate an executable file in the same folder. (AppMatrix.exe)
 
-## EXTRAS
+**There is an executable file in the root of the project.**
 
+## EXTRAS
 - Author - [Emiliano Loguidici](https://www.linkedin.com/in/emilianologuidici/)
